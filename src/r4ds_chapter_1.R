@@ -40,9 +40,9 @@ qplot(starwars$gender)
 dplyr::filter()
 dplyr::starwars
 
-# use ? to see functions inside a package
+# use ? to see documentation of a package
 ?map_dfr()
-dplyr::filter()
+?dplyr::filter()
 
 
 
@@ -59,3 +59,4 @@ dplyr::filter()
 # google/ 'R how to read excel file?'
 # use slack sds
 # come to SDS sessions and ask away!!
+
