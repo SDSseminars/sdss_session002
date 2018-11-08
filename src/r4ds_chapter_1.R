@@ -1,6 +1,8 @@
 # get coding======
 1 + 2
-
+sqrt(144)
+print("hello world")
+paste("hello", "world", "!")
 
 # packages======
 # MOTTO: THERE IS A PACKAGE FOR THAT!
@@ -32,6 +34,7 @@ Sys.Date()
 Sys.info()
 filter()
 qplot(starwars$gender)
+?readr::read_csv()
 
 # use :: to see functions inside a package
 dplyr::filter()
@@ -56,7 +59,3 @@ dplyr::filter()
 # google/ 'R how to read excel file?'
 # use slack sds
 # come to SDS sessions and ask away!!
-
-
-
-
